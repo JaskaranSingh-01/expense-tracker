@@ -5,9 +5,6 @@
 
 Full stack application to split bills among friends ;)
 
-Frontend : https://tripsplits.netlify.app/register
-
-Backend : https://github.com/aarhank/TripSplit-Backend
 
 ![](tripsplit.gif)
 
