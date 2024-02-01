@@ -6,8 +6,6 @@ A bill spliting application, uses a greedy algorithm to give the min number of t
 
 Made Using Spring Boot with fully scalable code, JWT authentication used to verify the user, database used AWS RDS.
 
-Frontend : https://tripsplits.netlify.app/register
-
 ![](lld.png)
 
 ### Required request body
